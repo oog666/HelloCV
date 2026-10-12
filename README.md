@@ -6,3 +6,6 @@
 ## 📁 项目结构
 - `README.md`：项目说明及语雀笔记链接汇总
 
+## 仓库链接
+Git:github.com/oog666/git_training
+Cmake:github.com/oog666/camke_training
