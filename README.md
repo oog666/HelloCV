@@ -8,4 +8,4 @@
 
 ## 仓库链接
 Git:github.com/oog666/git_training
-Cmake:github.com/oog666/camke_training
+Cmake:github.com/oog666/UnitConverter
